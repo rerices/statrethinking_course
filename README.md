@@ -14,9 +14,9 @@ The repo contains the original homework as well as the solution ins pdf form, bu
 
 
 # Book 
-The course is based on the homonimous book by the instructor, Statistical Rethinking, of which there is a new second version as 2020.
+The course is based on the homonimous book by the instructor, [Statistical Rethinking](https://www.amazon.com/Statistical-Rethinking-Bayesian-Examples-Chapman-dp-036713991X/dp/036713991X), of which there is a new second version as 2020.
 
-https://www.amazon.com/Statistical-Rethinking-Bayesian-Examples-Chapman-dp-036713991X/dp/036713991X
+
 
 # Original Lectures and Slides
 The original links to slides and course are listed here below.
