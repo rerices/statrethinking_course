@@ -1,36 +1,21 @@
 Statistical Rethinking: A Bayesian Course Using R and Stan
 ===============
-
 Winter 2018/2019
+Instructor: Richard McElreath, Max Planck Institute for Evolutionary Anthropology
 
-Instructor: Richard McElreath
+# Introduction
 
-Location: Max Planck Institute for Evolutionary Anthropology, main seminar room
+This repo contains my solutions to the excellent course by Richard McElreath on bayesian modelling. I recommend it to anyone who wishes a down-to-earth and modern approach to statistics. 
+My goal was to complete the homeworks to consolidate my grasp of course material and to familiarize myself with R.
+The repo contains the original homework as well as the solution ins pdf form, but they contain also my own solutions in R.
 
-When: 10am-11am Mondays & Fridays (see calendar below)
 
-# Materials
+# Book 
+The course is based on the homonimous book by the instructor (or maybe the other way around). 
+https://www.amazon.com/Statistical-Rethinking-Bayesian-Examples-Chapman-dp-036713991X/dp/036713991X
 
-## R package
-We'll use the Experimental (development) branch of my R package, because it has new features to go with the new course notes. First, you need to install `rstan`. Go to <http://mc-stan.org/> and find the instructions for your platform. Then you can install the `rethinking` package:
-```
-install.packages(c("devtools","mvtnorm","loo","coda"),dependencies=TRUE)
-library(devtools)
-install_github("rmcelreath/rethinking",ref="Experimental")
-```
-The code is all on github: <https://github.com/rmcelreath/rethinking/tree/Experimental>
-
-## Draft chapters
-We'll use draft chapters for the 2nd edition of my book, Statistical Rethinking. The draft is no longer available here for download. The book is expected in print in March 2020.
-
-## Homework and solutions
-I will also post problem sets and solutions here. Check the folders at the top.
-
-## Lectures
-
-Links to slides and videos are in the calendar below. The full lecture video playlist is here: <[Statistical Rethinking 2019](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI)>. The course examples in R have been converted to <[Python/pyMC3](https://github.com/gbosquechacon/statrethink_course_in_pymc3)> as well.
-
-# Calendar & Topical Outline
+# Original Lectures and Slides
+The original links to slides and course are listed here below.
 
  
 01-Dec 3: The Golem of Prague <[slides](https://speakerdeck.com/rmcelreath/l01-statistical-rethinking-winter-2019)> <[video](https://www.youtube.com/watch?v=4WVelCswXo4)>  
@@ -58,7 +43,7 @@ Links to slides and videos are in the calendar below. The full lecture video pla
 16-Feb 15: Multilevel Models 2 <[slides](https://speakerdeck.com/rmcelreath/l16-statistical-rethinking-winter-2019)> <[video](https://youtu.be/ZG3Oe35R5sY)>  
 
 17-Feb 18: Adventures in Covariance <[slides](https://speakerdeck.com/rmcelreath/l17-statistical-rethinking-winter-2019)> <[video](https://youtu.be/yfXpjmWgyXU)>  
-18-Feb 22: Slopes, Instruments and Social Relations <[slides](https://speakerdeck.com/rmcelreath/l18-statistical-rethinking-winter-2019)> <[video](https://youtu.be/e5cgiAGBKzI)>  
+18-Feb 22: Slopes, Instruments and Social Relations <[slides](https://speakerdeck.com/rmcelreath/l18-statistical-rethinking-winter-2019)> <[video](https://youtu.be/e5cgiAGBKzI)> 
 
 19-Feb 25: Gaussian Processes <[slides](https://speakerdeck.com/rmcelreath/l19-statistical-rethinking-winter-2019)> <[video](https://youtu.be/pwMRbt2CbSU)>  
 20-Mar 01: Missing Values and Measurement Error <[slides](https://speakerdeck.com/rmcelreath/l20-statistical-rethinking-winter-2019)> <[video](https://youtu.be/UgLF0aLk85s)>  
