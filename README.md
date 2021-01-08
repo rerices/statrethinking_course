@@ -1,17 +1,21 @@
 Statistical Rethinking: A Bayesian Course Using R and Stan
 ===============
 Winter 2018/2019
+
 Instructor: Richard McElreath, Max Planck Institute for Evolutionary Anthropology
 
 # Introduction
 
 This repo contains my solutions to the excellent course by Richard McElreath on bayesian modelling. I recommend it to anyone who wishes a down-to-earth and modern approach to statistics. 
+
 My goal was to complete the homeworks to consolidate my grasp of course material and to familiarize myself with R.
+
 The repo contains the original homework as well as the solution ins pdf form, but they contain also my own solutions in R.
 
 
 # Book 
-The course is based on the homonimous book by the instructor (or maybe the other way around). 
+The course is based on the homonimous book by the instructor, Statistical Rethinking, of which there is a new second version as 2020.
+
 https://www.amazon.com/Statistical-Rethinking-Bayesian-Examples-Chapman-dp-036713991X/dp/036713991X
 
 # Original Lectures and Slides
